@@ -15,7 +15,6 @@ A quick overview on node.js
 - [Contributing](#contributing)
 - [References](#references)
 - [Author](#author)
-- [Licence](#licence)
 <!-- /TOC -->
 
 # Installing
@@ -63,5 +62,3 @@ Go to branch `rest-api`
 
 # Author
 ***[Biprodas Roy]()***
-
-# Licence
