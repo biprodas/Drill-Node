@@ -1,64 +1,53 @@
-# Drill-Node
-A quick overview on node.js
+# Todo apps
+A full functional to-do application tool
 
-# Table of contents
-<!-- TOC  -->
-- [Drill-Node](#drill-node)
-- [Table of contents](#table-of-contents)
-- [Installing](#installing)
-    - [Requirement](#requirement)
-    - [Checking](#checking)
-    - [Terminal Command](#terminal-command)
-- [Basic Node.js](#basic-nodejs)
-- [REST API](#rest-api)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [References](#references)
-- [Author](#author)
-<!-- /TOC -->
 
-# Installing
+#### Technologies
+- [x] Node.js
+- [x] Express
+- [x] MongoDB, Mongoose
+- [x] HTML5, EJS, CSS3, Bootstrap4
 
-### Requirement
-- [x] [Node.js]()
-- [x] [Git]()
+
+#### Installing
+- [x] [Node.js](https://nodejs.org/en/)
+- [x] [Git](https://git-scm.com/)
 - [x] [MongoDB]()
-- [x] [Robo 3T]()
-- [x] [VS Code]()
 
-### Checking
-```
-$ node -v
-$ git -version
-```
-**Note:** `$` refers `terminal` command
 
-### Terminal Command
+#### Checking
+```
+$ node --version
+$ git --version
+```
+- **Note:** `$` refers `terminal` command
+
+#### Start Todoist
+
+#### Terminal Command
 ```
 $ npm init
 $ npm install nodemon -g
 $ npm install express -save
 $ npm install mongoose -save
+$ npm install ejs -save
+$ npm install body-parser -save
 ```
+#### Run Locally
+```
+$ git clone https://github.com/bipro10/Drill-Node.git
+$ cd Drill-Node
+$ git checkout Todo-apps
+$ npm install
+$ node app
+```
+Open browser and hit [localhost:5000](localhost:5000).
+
+#### Author
+
+* **Biprodas Roy** - *Initial work* - [bipro10](https://github.com/bipro10)
 
 
-# Basic Node.js
-
-Go to branch `basic-node` 
-
-
-# REST API
-
-Go to branch `rest-api` 
-
-
-
-
-# Usage
-
-# Contributing 
-
-# References
-
-# Author
-***[Biprodas Roy]()***
+#### License
+- **[MIT License](LICENSE.md)**
+- Copyright 2018 © <a href="#" target="_blank">Biprodas Roy</a>.
