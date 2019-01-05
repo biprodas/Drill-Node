@@ -1,9 +1,30 @@
 # Drill-Node
 A quick overview on node.js
 
+# Usage
+This Project is for learning NodeJS and a walk to become a complete NodeJS Developer.  
+This repository contain sevarel branches:  
+- [x] **master**
+- [x] **basic-node**
+- [x] **advanced-node**
+- [x] **rest-api**
+- [x] **Project: Todo-app**
+- [x] **Project: Chat-app**
+
+To go to a particular branch, checkout that branch.  
+## Running Locally
+```
+$ git clone https://github.com/bipro10/Drill-Node.git
+$ git cd Drill-Node
+$ git checkout 'branch_name'
+```
+
+
 # Table of contents
 <!-- TOC  -->
 - [Drill-Node](#drill-node)
+- [Usage](#usage)
+  - [Running Locally](#running-locally)
 - [Table of contents](#table-of-contents)
 - [Installing](#installing)
     - [Requirement](#requirement)
@@ -11,9 +32,7 @@ A quick overview on node.js
     - [Terminal Command](#terminal-command)
 - [Basic Node.js](#basic-nodejs)
 - [REST API](#rest-api)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [References](#references)
 - [Author](#author)
 <!-- /TOC -->
 
@@ -23,8 +42,6 @@ A quick overview on node.js
 - [x] [Node.js]()
 - [x] [Git]()
 - [x] [MongoDB]()
-- [x] [Robo 3T]()
-- [x] [VS Code]()
 
 ### Checking
 ```
@@ -52,13 +69,7 @@ Go to branch `basic-node`
 Go to branch `rest-api` 
 
 
-
-
-# Usage
-
 # Contributing 
-
-# References
 
 # Author
 ***[Biprodas Roy]()***
