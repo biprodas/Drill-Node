@@ -8,6 +8,7 @@ This repository contain sevarel branches:
 - [x] **basic-node**
 - [x] **advanced-node**
 - [x] **rest-api**
+- [x] **Project: Todoist** 
 - [x] **Project: Todo-app**
 - [x] **Project: Chat-app**
 
@@ -32,6 +33,7 @@ $ git checkout 'branch_name'
     - [Terminal Command](#terminal-command)
 - [Basic Node.js](#basic-nodejs)
 - [REST API](#rest-api)
+- [Todoist](#todoist)
 - [Contributing](#contributing)
 - [Author](#author)
 <!-- /TOC -->
@@ -67,6 +69,11 @@ Go to branch `basic-node`
 # REST API
 
 Go to branch `rest-api` 
+
+# Todoist
+> Ful functional Todo application built with MERN stack (A MERN Stack Sample).  
+
+Go to branch `Todoist`
 
 
 # Contributing 
