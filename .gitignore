@@ -1,1 +1,9 @@
-node_modules
+# dependencies
+/node_modules
+
+# testing
+
+# production
+/build
+
+# misc
