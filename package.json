@@ -1,0 +1,26 @@
+{
+  "name": "next.js",
+  "version": "1.0.0",
+  "description": "Learn Next.js with nextjs.org",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biprodas/Drill-Node.git"
+  },
+  "author": "Biprodas Roy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biprodas/Drill-Node/issues"
+  },
+  "homepage": "https://github.com/biprodas/Drill-Node#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
